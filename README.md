@@ -1,1 +1,1 @@
-This is a chatbot demo fro answering questions
+This is a chatbot demo for answering questions
