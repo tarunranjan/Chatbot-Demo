@@ -1,1 +1,1 @@
-# This is a chatbot for answering regarding questions.
+# This is a chatbot for answering questions
